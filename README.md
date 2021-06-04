@@ -1,1 +1,0 @@
-# UrbanRide-MobileApp-React-Native
